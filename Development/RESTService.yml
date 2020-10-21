@@ -1,2 +1,6 @@
 ConnectionDataBase:
   - connectionString: Data Source=.;Initial Catalog=RESTService_Dev;Integrated Security=True;Connection Timeout=120
+
+SPs:
+  GetUsers:
+    - name: getUsers
