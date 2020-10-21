@@ -1,2 +1,2 @@
 ConnectionDataBase:
-  connectionString: "Data Source=.;Initial Catalog=RESTService_Prod;Integrated Security=True;Connection Timeout=120"
+  - connectionString: Data Source=.;Initial Catalog=RESTService_Prod;Integrated Security=True;Connection Timeout=120
