@@ -7,4 +7,4 @@ SPs:
   FindUser:
     - name: spFindUser
     parameters:
-      - userName
+      userName
