@@ -5,6 +5,6 @@ SPs:
   GetUsers:
     - name: getUsers
   FindUser:
-    - name: findUser
+    - name: spFindUser
     parameters:
       - userName
