@@ -4,3 +4,7 @@ ConnectionDataBase:
 SPs:
   GetUsers:
     - name: getUsers
+  FindUser:
+    - name: findUser
+    parameters:
+      - userName
