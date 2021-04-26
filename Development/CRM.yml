@@ -5,7 +5,7 @@ SPs:
   GetRoles:
     name: PROC_ROLE_LIST
 
-  GetRol:
+  GetRole:
     name: PROC_ROLE_GET
     parameters:
       - RoleId
