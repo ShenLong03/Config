@@ -8,4 +8,4 @@ SPs:
   GetRol:
     name: PROC_ROLE_GET
     parameters:
-      - id
+      - roleId
