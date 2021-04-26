@@ -9,3 +9,9 @@ SPs:
     name: PROC_ROLE_GET
     parameters:
       - RoleId
+
+  CreateRole:
+    name: PROC_ROLE_INSERT
+    parameters:
+      - Name
+      - State
