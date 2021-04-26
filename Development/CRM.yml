@@ -15,3 +15,10 @@ SPs:
     parameters:
       - Name
       - State
+
+  EditRole:
+    name: PROC_ROLE_UPDATE
+    parameters:
+      - RoleId
+      - Name
+      - State
