@@ -1,2 +1,2 @@
-ConnectionDataBase :
-  - connectionString : Data Source = .; Initial Catalog = FETIMADB; Integrated Security = True; Connection Timeout = 120
+ConnectionDataBase:
+  - connectionString: Data Source=.;Initial Catalog=TICOAGENDADB;Integrated Security=True;Connection Timeout=120
